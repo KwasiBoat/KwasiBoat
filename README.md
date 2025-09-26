@@ -38,8 +38,8 @@
 
 ## 📂 Featured Projects  
 
-- [**Sales Analytics Dashboard**](#)  
-  Designed an interactive Power BI dashboard to uncover trends in sales performance, profitability, and customer segmentation.  
+- [**Car Analytics Dashboard**](#)  
+  Built a report that analyzes and compares 2024 sales performance between Lexus and BMW.
 
 - [**Customer Churn Analysis**](#)  
   Performed EDA & predictive modeling to identify key drivers of churn and provided retention strategy recommendations.  
